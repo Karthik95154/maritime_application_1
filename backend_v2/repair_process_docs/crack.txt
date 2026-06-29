@@ -1,0 +1,41 @@
+<title> 
+crack 
+</title>
+
+<description> 
+Cracks are splits or fractures in hull steel caused by stress concentration, fatigue, or impact. They often originate at welds, sharp corners, or other discontinuities under cyclic loading【11†L965-L974】. If cracks open widely or reach the plating edges, classification guidelines typically call for replacing that section with new plate【11†L965-L974】. Causes include repetitive wave slamming, hull flexing, or initial fabrication flaws. Addressing cracks quickly prevents catastrophic failure. 
+</description>
+
+<repair-process> 
+
+- **Locate and prepare crack:** Identify the full extent of the crack (using magnetic-particle or dye-penetrant if needed). Drill a hole (diameter ≈ plate thickness) at each crack tip to arrest propagation【12†L993-L1002】. Then gouge or cut a “V” groove along the crack into sound metal, removing all oxidized or fractured material【12†L993-L1002】. 
+- **Prepare access:** Remove any hindering structure (like ceiling panels or stiffeners) to gain access on both sides of the crack【12†L1005-L1013】. In way of structural members, burn through adjacent welds (≈6” each side) to relieve stress【12†L1017-L1024】. 
+- **Welding procedure:** With the crack opened in a “V”, begin welding with low-hydrogen stick electrodes (e.g. E7018). If the crack root gap is too large, build up layers first or use a removable backing strip【12†L1010-L1017】. After each pass, peen weld beads as recommended, then inspect by grinding and dye-penetrant to ensure no subsurface flaws remain【12†L1010-L1017】. 
+- **Finish weld:** Remove any backing strip after welding, re-weld the back side if needed, and grind smooth. The repaired area must be continuous with the original plating. Restore any structural attachments cut earlier. Finally, coat the welds with primer and paint to restore corrosion protection. 
+
+</repair-process>
+
+<required-items>
+{ 
+    "High-speed Drill Bit": { 
+        "quantity_per_sqm": 1.08, 
+        "metrics": "bits/sq.m", 
+        "cost": "538 rs" 
+    }, 
+    "Steel Backing Plate (welding)": { 
+        "quantity_per_sqm": 0.54, 
+        "metrics": "sq.m/sq.m", 
+        "cost": "1076 rs" 
+    }, 
+    "E7018 Welding Electrodes": { 
+        "quantity_per_sqm": 11, 
+        "metrics": "rods/sq.m", 
+        "cost": "194 rs" 
+    }, 
+    "Skilled Welder (labour)": { 
+        "quantity_per_sqm": 0.11, 
+        "metrics": "hours/sq.m", 
+        "cost": "3605 rs" 
+    } 
+}
+</required-items>

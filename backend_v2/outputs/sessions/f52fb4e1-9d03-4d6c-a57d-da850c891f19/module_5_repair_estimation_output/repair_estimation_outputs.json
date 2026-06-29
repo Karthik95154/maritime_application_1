@@ -1,0 +1,407 @@
+{
+    "repair_summary": {
+        "total_defects": 10,
+        "total_estimated_cost": 499002.34,
+        "total_material_cost": 299401.4,
+        "total_labor_cost": 149700.7,
+        "total_equipment_cost": 49900.23,
+        "currency": "INR",
+        "severity_distribution": {
+            "low": 2,
+            "medium": 4,
+            "high": 4
+        }
+    },
+    "defect_repairs": {
+        "PD_1": {
+            "persistent_defect_id": "PD_1",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "medium",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.08,
+                        "total_cost": 807.3,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 41583.53,
+                "currency": "INR",
+                "material_cost": 24950.12,
+                "labor_cost": 12475.06,
+                "equipment_cost": 4158.35
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 0,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000000.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "KEEL_AREA",
+                        "part_track_id": 1,
+                        "part_segmentation_area_px": 187330,
+                        "defect_overlap_area_px": 21630,
+                        "defect_overlap_ratio": 0.11546468798377195
+                    },
+                    {
+                        "part_name": "PROPELLER_AREA",
+                        "part_track_id": 2,
+                        "part_segmentation_area_px": 44680,
+                        "defect_overlap_area_px": 7005,
+                        "defect_overlap_ratio": 0.15678155774395702
+                    }
+                ]
+            }
+        },
+        "PD_2": {
+            "persistent_defect_id": "PD_2",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "medium",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.08,
+                        "total_cost": 807.3,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 41583.53,
+                "currency": "INR",
+                "material_cost": 24950.12,
+                "labor_cost": 12475.06,
+                "equipment_cost": 4158.35
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 10,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000010.jpg",
+                "overlapping_parts": []
+            }
+        },
+        "PD_3": {
+            "persistent_defect_id": "PD_3",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "medium",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.08,
+                        "total_cost": 807.3,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 41583.53,
+                "currency": "INR",
+                "material_cost": 24950.12,
+                "labor_cost": 12475.06,
+                "equipment_cost": 4158.35
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 50,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000050.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "RUDDER_AREA",
+                        "part_track_id": 4,
+                        "part_segmentation_area_px": 72898,
+                        "defect_overlap_area_px": 1046,
+                        "defect_overlap_ratio": 0.0143488161540783
+                    }
+                ]
+            }
+        },
+        "PD_4": {
+            "persistent_defect_id": "PD_4",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "high",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.12,
+                        "total_cost": 1345.5,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 69305.88,
+                "currency": "INR",
+                "material_cost": 41583.53,
+                "labor_cost": 20791.76,
+                "equipment_cost": 6930.59
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 145,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000145.jpg",
+                "overlapping_parts": []
+            }
+        },
+        "PD_5": {
+            "persistent_defect_id": "PD_5",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "high",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.12,
+                        "total_cost": 1345.5,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 69305.88,
+                "currency": "INR",
+                "material_cost": 41583.53,
+                "labor_cost": 20791.76,
+                "equipment_cost": 6930.59
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 235,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000235.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "HULL_AREA",
+                        "part_track_id": 1,
+                        "part_segmentation_area_px": 499321,
+                        "defect_overlap_area_px": 102143,
+                        "defect_overlap_ratio": 0.20456379763719132
+                    },
+                    {
+                        "part_name": "RUDDER_AREA",
+                        "part_track_id": 4,
+                        "part_segmentation_area_px": 57852,
+                        "defect_overlap_area_px": 9823,
+                        "defect_overlap_ratio": 0.16979533983267647
+                    }
+                ]
+            }
+        },
+        "PD_6": {
+            "persistent_defect_id": "PD_6",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "high",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.12,
+                        "total_cost": 1345.5,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 69305.88,
+                "currency": "INR",
+                "material_cost": 41583.53,
+                "labor_cost": 20791.76,
+                "equipment_cost": 6930.59
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 235,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000235.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "HULL_AREA",
+                        "part_track_id": 1,
+                        "part_segmentation_area_px": 499321,
+                        "defect_overlap_area_px": 86818,
+                        "defect_overlap_ratio": 0.17387211833670124
+                    }
+                ]
+            }
+        },
+        "PD_7": {
+            "persistent_defect_id": "PD_7",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "high",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.12,
+                        "total_cost": 1345.5,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 69305.88,
+                "currency": "INR",
+                "material_cost": 41583.53,
+                "labor_cost": 20791.76,
+                "equipment_cost": 6930.59
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 405,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000405.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "HULL_AREA",
+                        "part_track_id": 1,
+                        "part_segmentation_area_px": 857718,
+                        "defect_overlap_area_px": 122979,
+                        "defect_overlap_ratio": 0.14337929249473602
+                    }
+                ]
+            }
+        },
+        "PD_8": {
+            "persistent_defect_id": "PD_8",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "medium",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.08,
+                        "total_cost": 807.3,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 41583.53,
+                "currency": "INR",
+                "material_cost": 24950.12,
+                "labor_cost": 12475.06,
+                "equipment_cost": 4158.35
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 460,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000460.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "HULL_AREA",
+                        "part_track_id": 1,
+                        "part_segmentation_area_px": 767850,
+                        "defect_overlap_area_px": 42915,
+                        "defect_overlap_ratio": 0.055889822230904475
+                    }
+                ]
+            }
+        },
+        "PD_9": {
+            "persistent_defect_id": "PD_9",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "low",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.05,
+                        "total_cost": 538.2,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 27722.35,
+                "currency": "INR",
+                "material_cost": 16633.41,
+                "labor_cost": 8316.7,
+                "equipment_cost": 2772.24
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 490,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000490.jpg",
+                "overlapping_parts": [
+                    {
+                        "part_name": "KEEL_AREA",
+                        "part_track_id": 1,
+                        "part_segmentation_area_px": 431838,
+                        "defect_overlap_area_px": 11871,
+                        "defect_overlap_ratio": 0.027489475219874118
+                    }
+                ]
+            }
+        },
+        "PD_10": {
+            "persistent_defect_id": "PD_10",
+            "defect_name": "DEFORMATION",
+            "description": "Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal\u301018\u2020L79-L87\u3011. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed.",
+            "severity": "low",
+            "repair_process": "- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. \n- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (\u2265\u00be thickness)\u301035\u2020L1098-L1103\u3011\u301018\u2020L79-L87\u3011. Straighten or remove any bent framing if required. \n- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. \n- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. \n- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour.",
+            "repair_estimation": {
+                "required_items": [
+                    {
+                        "item_name": "Cutting Torch (rental)",
+                        "quantity_per_sqm": 0.01,
+                        "metrics": "machine-days/sq.m",
+                        "unit_cost": 10764.0,
+                        "required_quantity": 0.05,
+                        "total_cost": 538.2,
+                        "currency": "INR"
+                    }
+                ],
+                "estimated_total_cost": 27722.35,
+                "currency": "INR",
+                "material_cost": 16633.41,
+                "labor_cost": 8316.7,
+                "equipment_cost": 2772.24
+            },
+            "defect_metadata": {
+                "defect_area": 5,
+                "area_metrics": "sq.m",
+                "best_frame": 520,
+                "best_frame_path": "outputs/sessions/f52fb4e1-9d03-4d6c-a57d-da850c891f19\\module_1_frame_extraction_output\\frame_000520.jpg",
+                "overlapping_parts": []
+            }
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "maritimeinspect-ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File ./start-maritimeinspect.ps1",
+    "dev": "vite",
+    "dev:frontend": "vite",
+    "dev:backend": "cd backend_v2 && python -m uvicorn main:app --host 127.0.0.1 --port 8000 --reload",
+    "dev:full": "powershell -ExecutionPolicy Bypass -File ./start-maritimeinspect.ps1",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.1",
+    "@mui/material": "^7.1.0",
+    "@tanstack/react-query": "^5.76.2",
+    "@types/canvas-confetti": "^1.9.0",
+    "canvas-confetti": "^1.9.4",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^0.511.0",
+    "material-react-table": "^3.2.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-hot-toast": "^2.6.0",
+    "react-router-dom": "^7.6.1",
+    "recharts": "^2.15.3",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.0",
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.5.0",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

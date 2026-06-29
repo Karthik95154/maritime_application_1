@@ -1,0 +1,16 @@
+{
+    "repair_summary": {
+        "total_defects": 0,
+        "total_estimated_cost": 0,
+        "total_material_cost": 0,
+        "total_labor_cost": 0,
+        "total_equipment_cost": 0,
+        "currency": "INR",
+        "severity_distribution": {
+            "low": 0,
+            "medium": 0,
+            "high": 0
+        }
+    },
+    "defect_repairs": {}
+}

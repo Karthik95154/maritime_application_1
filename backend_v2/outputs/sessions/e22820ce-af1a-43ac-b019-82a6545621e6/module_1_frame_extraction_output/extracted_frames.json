@@ -1,0 +1,17 @@
+[
+    {
+        "frame_id": 0,
+        "timestamp": 0.0,
+        "frame_path": "outputs/sessions/e22820ce-af1a-43ac-b019-82a6545621e6\\module_1_frame_extraction_output\\frame_000000.jpg"
+    },
+    {
+        "frame_id": 30,
+        "timestamp": 1.25,
+        "frame_path": "outputs/sessions/e22820ce-af1a-43ac-b019-82a6545621e6\\module_1_frame_extraction_output\\frame_000030.jpg"
+    },
+    {
+        "frame_id": 85,
+        "timestamp": 3.5416666666666665,
+        "frame_path": "outputs/sessions/e22820ce-af1a-43ac-b019-82a6545621e6\\module_1_frame_extraction_output\\frame_000085.jpg"
+    }
+]

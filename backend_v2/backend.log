@@ -1,0 +1,453 @@
+2026-06-03 12:48:45.555 | INFO     | pipeline_runner:run_pipeline:71 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Pipeline Started
+2026-06-03 12:48:59.107 | INFO     | pipeline_runner:run_pipeline:132 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Frame Extraction Completed
+2026-06-03 12:49:03.862 | INFO     | pipeline_runner:run_pipeline:192 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] CDS Completed
+2026-06-03 12:49:07.404 | INFO     | pipeline_runner:run_pipeline:252 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Temporal Consistency Completed
+2026-06-03 12:49:07.455 | INFO     | pipeline_runner:run_pipeline:310 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Unique Defect Extraction Completed
+2026-06-03 12:49:07.513 | INFO     | pipeline_runner:run_pipeline:367 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Repair Estimation Completed
+2026-06-03 12:49:50.459 | INFO     | pipeline_runner:run_pipeline:415 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Document Generated
+2026-06-03 12:49:50.469 | INFO     | pipeline_runner:run_pipeline:437 - [fc160c60-88d4-4fa0-8760-7bc5222e091f] Pipeline Completed
+2026-06-03 12:58:49.847 | INFO     | pipeline_runner:run_pipeline:71 - [6679ec15-16ff-4706-828b-8cd44d280c80] Pipeline Started
+2026-06-03 12:59:08.429 | INFO     | pipeline_runner:run_pipeline:132 - [6679ec15-16ff-4706-828b-8cd44d280c80] Frame Extraction Completed
+2026-06-03 12:59:39.230 | INFO     | pipeline_runner:run_pipeline:192 - [6679ec15-16ff-4706-828b-8cd44d280c80] CDS Completed
+2026-06-03 12:59:47.089 | INFO     | pipeline_runner:run_pipeline:252 - [6679ec15-16ff-4706-828b-8cd44d280c80] Temporal Consistency Completed
+2026-06-03 12:59:47.254 | INFO     | pipeline_runner:run_pipeline:310 - [6679ec15-16ff-4706-828b-8cd44d280c80] Unique Defect Extraction Completed
+2026-06-03 12:59:47.312 | INFO     | pipeline_runner:run_pipeline:367 - [6679ec15-16ff-4706-828b-8cd44d280c80] Repair Estimation Completed
+2026-06-03 13:03:33.714 | INFO     | pipeline_runner:run_pipeline:415 - [6679ec15-16ff-4706-828b-8cd44d280c80] Document Generated
+2026-06-03 13:03:33.724 | INFO     | pipeline_runner:run_pipeline:437 - [6679ec15-16ff-4706-828b-8cd44d280c80] Pipeline Completed
+2026-06-03 13:09:53.692 | INFO     | pipeline_runner:run_pipeline:71 - [7c7e4a7d-a082-4158-b126-42c57f070901] Pipeline Started
+2026-06-03 13:10:02.242 | INFO     | pipeline_runner:run_pipeline:132 - [7c7e4a7d-a082-4158-b126-42c57f070901] Frame Extraction Completed
+2026-06-03 13:10:09.866 | INFO     | pipeline_runner:run_pipeline:192 - [7c7e4a7d-a082-4158-b126-42c57f070901] CDS Completed
+2026-06-03 13:10:13.868 | INFO     | pipeline_runner:run_pipeline:252 - [7c7e4a7d-a082-4158-b126-42c57f070901] Temporal Consistency Completed
+2026-06-03 13:10:13.937 | INFO     | pipeline_runner:run_pipeline:310 - [7c7e4a7d-a082-4158-b126-42c57f070901] Unique Defect Extraction Completed
+2026-06-03 13:10:13.970 | INFO     | pipeline_runner:run_pipeline:367 - [7c7e4a7d-a082-4158-b126-42c57f070901] Repair Estimation Completed
+2026-06-03 13:10:17.739 | INFO     | pipeline_runner:run_pipeline:415 - [7c7e4a7d-a082-4158-b126-42c57f070901] Document Generated
+2026-06-03 13:10:17.749 | INFO     | pipeline_runner:run_pipeline:437 - [7c7e4a7d-a082-4158-b126-42c57f070901] Pipeline Completed
+2026-06-03 13:15:31.568 | INFO     | pipeline_runner:run_pipeline:71 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Pipeline Started
+2026-06-03 13:15:41.816 | INFO     | pipeline_runner:run_pipeline:132 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Frame Extraction Completed
+2026-06-03 13:15:45.898 | INFO     | pipeline_runner:run_pipeline:192 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] CDS Completed
+2026-06-03 13:15:48.908 | INFO     | pipeline_runner:run_pipeline:252 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Temporal Consistency Completed
+2026-06-03 13:15:48.968 | INFO     | pipeline_runner:run_pipeline:310 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Unique Defect Extraction Completed
+2026-06-03 13:15:48.996 | INFO     | pipeline_runner:run_pipeline:367 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Repair Estimation Completed
+2026-06-03 13:15:51.412 | INFO     | pipeline_runner:run_pipeline:415 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Document Generated
+2026-06-03 13:15:51.461 | INFO     | pipeline_runner:run_pipeline:437 - [b63d90e0-c4c8-4ef8-99bb-2f43e53ec995] Pipeline Completed
+2026-06-03 13:19:59.277 | INFO     | pipeline_runner:run_pipeline:71 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Pipeline Started
+2026-06-03 13:20:08.339 | INFO     | pipeline_runner:run_pipeline:132 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Frame Extraction Completed
+2026-06-03 13:20:18.818 | INFO     | pipeline_runner:run_pipeline:192 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] CDS Completed
+2026-06-03 13:20:22.286 | INFO     | pipeline_runner:run_pipeline:252 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Temporal Consistency Completed
+2026-06-03 13:20:22.530 | INFO     | pipeline_runner:run_pipeline:310 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Unique Defect Extraction Completed
+2026-06-03 13:20:22.609 | INFO     | pipeline_runner:run_pipeline:367 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Repair Estimation Completed
+2026-06-03 13:20:26.941 | INFO     | pipeline_runner:run_pipeline:415 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Document Generated
+2026-06-03 13:20:26.949 | INFO     | pipeline_runner:run_pipeline:437 - [ab8cbb15-3ee4-4dfe-ad48-c480272d12f7] Pipeline Completed
+2026-06-03 13:26:36.310 | INFO     | pipeline_runner:run_pipeline:71 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Pipeline Started
+2026-06-03 13:26:47.119 | INFO     | pipeline_runner:run_pipeline:132 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Frame Extraction Completed
+2026-06-03 13:26:52.896 | INFO     | pipeline_runner:run_pipeline:192 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] CDS Completed
+2026-06-03 13:26:55.972 | INFO     | pipeline_runner:run_pipeline:252 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Temporal Consistency Completed
+2026-06-03 13:26:56.022 | INFO     | pipeline_runner:run_pipeline:310 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Unique Defect Extraction Completed
+2026-06-03 13:26:56.048 | INFO     | pipeline_runner:run_pipeline:367 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Repair Estimation Completed
+2026-06-03 13:26:57.791 | INFO     | pipeline_runner:run_pipeline:415 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Document Generated
+2026-06-03 13:26:57.799 | INFO     | pipeline_runner:run_pipeline:437 - [4a14988e-8a89-4c50-9ba8-fae737e2e4fc] Pipeline Completed
+2026-06-03 13:30:49.101 | INFO     | pipeline_runner:run_pipeline:71 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Pipeline Started
+2026-06-03 13:30:59.147 | INFO     | pipeline_runner:run_pipeline:132 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Frame Extraction Completed
+2026-06-03 13:31:03.344 | INFO     | pipeline_runner:run_pipeline:192 - [30345916-b865-4297-9ddd-5c7e1fade7d3] CDS Completed
+2026-06-03 13:31:06.707 | INFO     | pipeline_runner:run_pipeline:252 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Temporal Consistency Completed
+2026-06-03 13:31:06.755 | INFO     | pipeline_runner:run_pipeline:310 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Unique Defect Extraction Completed
+2026-06-03 13:31:06.779 | INFO     | pipeline_runner:run_pipeline:367 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Repair Estimation Completed
+2026-06-03 13:31:08.575 | INFO     | pipeline_runner:run_pipeline:415 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Document Generated
+2026-06-03 13:31:08.583 | INFO     | pipeline_runner:run_pipeline:437 - [30345916-b865-4297-9ddd-5c7e1fade7d3] Pipeline Completed
+2026-06-04 15:11:01.319 | INFO     | pipeline_runner:run_pipeline:71 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Pipeline Started
+2026-06-04 15:11:30.214 | INFO     | pipeline_runner:run_pipeline:132 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Frame Extraction Completed
+2026-06-04 15:12:05.414 | INFO     | pipeline_runner:run_pipeline:192 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] CDS Completed
+2026-06-04 15:12:15.623 | INFO     | pipeline_runner:run_pipeline:252 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Temporal Consistency Completed
+2026-06-04 15:12:15.877 | INFO     | pipeline_runner:run_pipeline:310 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Unique Defect Extraction Completed
+2026-06-04 15:12:16.012 | INFO     | pipeline_runner:run_pipeline:367 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Repair Estimation Completed
+2026-06-04 15:14:36.079 | INFO     | pipeline_runner:run_pipeline:415 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Document Generated
+2026-06-04 15:14:36.084 | INFO     | pipeline_runner:run_pipeline:437 - [8b3212ec-24b1-4ecb-bdab-0a0457bbcbb3] Pipeline Completed
+2026-06-04 15:14:36.261 | INFO     | pipeline_runner:run_pipeline:71 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Pipeline Started
+2026-06-04 15:14:56.835 | INFO     | pipeline_runner:run_pipeline:132 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Frame Extraction Completed
+2026-06-04 15:15:24.225 | INFO     | pipeline_runner:run_pipeline:192 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] CDS Completed
+2026-06-04 15:15:31.569 | INFO     | pipeline_runner:run_pipeline:252 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Temporal Consistency Completed
+2026-06-04 15:15:31.799 | INFO     | pipeline_runner:run_pipeline:310 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Unique Defect Extraction Completed
+2026-06-04 15:15:31.846 | INFO     | pipeline_runner:run_pipeline:367 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Repair Estimation Completed
+2026-06-04 15:18:10.578 | INFO     | pipeline_runner:run_pipeline:415 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Document Generated
+2026-06-04 15:18:10.583 | INFO     | pipeline_runner:run_pipeline:437 - [9e27d0f4-d6e9-49d0-950d-f07b53c6e183] Pipeline Completed
+2026-06-04 15:18:10.869 | INFO     | pipeline_runner:run_pipeline:71 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Pipeline Started
+2026-06-04 15:18:32.035 | INFO     | pipeline_runner:run_pipeline:132 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Frame Extraction Completed
+2026-06-04 15:18:47.040 | INFO     | pipeline_runner:run_pipeline:192 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] CDS Completed
+2026-06-04 15:18:53.831 | INFO     | pipeline_runner:run_pipeline:252 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Temporal Consistency Completed
+2026-06-04 15:18:53.931 | INFO     | pipeline_runner:run_pipeline:310 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Unique Defect Extraction Completed
+2026-06-04 15:18:53.958 | INFO     | pipeline_runner:run_pipeline:367 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Repair Estimation Completed
+2026-06-04 15:19:34.437 | INFO     | pipeline_runner:run_pipeline:415 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Document Generated
+2026-06-04 15:19:34.443 | INFO     | pipeline_runner:run_pipeline:437 - [11d1f6a0-1471-4935-8f02-d27e3163d41f] Pipeline Completed
+2026-06-05 12:13:05.194 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 12:19:14.186 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 13:12:57.936 | INFO     | pipeline_runner:run_pipeline:71 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Pipeline Started
+2026-06-05 14:04:45.876 | INFO     | pipeline_runner:run_pipeline:132 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Frame Extraction Completed
+2026-06-05 14:05:32.283 | INFO     | pipeline_runner:run_pipeline:192 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] CDS Completed
+2026-06-05 14:05:59.325 | INFO     | pipeline_runner:run_pipeline:252 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Temporal Consistency Completed
+2026-06-05 14:05:59.552 | INFO     | pipeline_runner:run_pipeline:310 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Unique Defect Extraction Completed
+2026-06-05 14:05:59.660 | INFO     | pipeline_runner:run_pipeline:367 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Repair Estimation Completed
+2026-06-05 14:11:23.418 | INFO     | pipeline_runner:run_pipeline:415 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Document Generated
+2026-06-05 14:11:23.423 | INFO     | pipeline_runner:run_pipeline:437 - [f52fb4e1-9d03-4d6c-a57d-da850c891f19] Pipeline Completed
+2026-06-05 14:28:53.001 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 14:30:24.112 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 14:36:23.103 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 14:42:45.939 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 14:53:14.596 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 14:53:19.304 | INFO     | pipeline_runner:run_pipeline:71 - [351d0b74-8340-4422-af0d-366d5306b6db] Pipeline Started
+2026-06-05 14:53:33.083 | INFO     | pipeline_runner:run_pipeline:132 - [351d0b74-8340-4422-af0d-366d5306b6db] Frame Extraction Completed
+2026-06-05 14:53:38.903 | INFO     | pipeline_runner:run_pipeline:192 - [351d0b74-8340-4422-af0d-366d5306b6db] CDS Completed
+2026-06-05 14:53:42.882 | INFO     | pipeline_runner:run_pipeline:252 - [351d0b74-8340-4422-af0d-366d5306b6db] Temporal Consistency Completed
+2026-06-05 14:53:42.938 | INFO     | pipeline_runner:run_pipeline:310 - [351d0b74-8340-4422-af0d-366d5306b6db] Unique Defect Extraction Completed
+2026-06-05 14:53:42.970 | INFO     | pipeline_runner:run_pipeline:367 - [351d0b74-8340-4422-af0d-366d5306b6db] Repair Estimation Completed
+2026-06-05 14:53:45.853 | INFO     | pipeline_runner:run_pipeline:415 - [351d0b74-8340-4422-af0d-366d5306b6db] Document Generated
+2026-06-05 14:53:46.210 | INFO     | pipeline_runner:run_pipeline:437 - [351d0b74-8340-4422-af0d-366d5306b6db] Pipeline Completed
+2026-06-05 15:24:27.394 | INFO     | pipeline_runner:run_pipeline:71 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Pipeline Started
+2026-06-05 15:24:42.673 | INFO     | pipeline_runner:run_pipeline:132 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Frame Extraction Completed
+2026-06-05 15:24:47.712 | INFO     | pipeline_runner:run_pipeline:192 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] CDS Completed
+2026-06-05 15:24:56.243 | INFO     | pipeline_runner:run_pipeline:252 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Temporal Consistency Completed
+2026-06-05 15:24:56.291 | INFO     | pipeline_runner:run_pipeline:310 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Unique Defect Extraction Completed
+2026-06-05 15:24:56.318 | INFO     | pipeline_runner:run_pipeline:367 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Repair Estimation Completed
+2026-06-05 15:24:58.250 | INFO     | pipeline_runner:run_pipeline:415 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Document Generated
+2026-06-05 15:24:58.252 | INFO     | pipeline_runner:run_pipeline:437 - [e9ebf630-51c1-46dc-abf7-8eb74397db79] Pipeline Completed
+2026-06-05 15:30:48.774 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-05 15:33:47.237 | INFO     | pipeline_runner:run_pipeline:71 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Pipeline Started
+2026-06-05 15:33:54.041 | INFO     | pipeline_runner:run_pipeline:132 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Frame Extraction Completed
+2026-06-05 15:33:56.922 | INFO     | pipeline_runner:run_pipeline:192 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] CDS Completed
+2026-06-05 15:34:01.756 | INFO     | pipeline_runner:run_pipeline:252 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Temporal Consistency Completed
+2026-06-05 15:34:01.798 | INFO     | pipeline_runner:run_pipeline:310 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Unique Defect Extraction Completed
+2026-06-05 15:34:01.824 | INFO     | pipeline_runner:run_pipeline:367 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Repair Estimation Completed
+2026-06-05 15:34:03.254 | INFO     | pipeline_runner:run_pipeline:415 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Document Generated
+2026-06-05 15:34:03.258 | ERROR    | pipeline_runner:run_pipeline:447 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Failed to invalidate batch report: [WinError 32] The process cannot access the file because it is being used by another process: 'outputs\\batches\\23b64e47-3949-4cb5-b348-d4da723c7a62\\combined_vessel_inspection_report.docx'
+2026-06-05 15:34:03.258 | INFO     | pipeline_runner:run_pipeline:449 - [c00aa475-c2f5-48d6-ac28-828cac82ce78] Pipeline Completed
+2026-06-05 15:46:40.605 | INFO     | pipeline_runner:run_pipeline:71 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Pipeline Started
+2026-06-05 15:46:53.755 | INFO     | pipeline_runner:run_pipeline:132 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Frame Extraction Completed
+2026-06-05 15:47:07.685 | INFO     | pipeline_runner:run_pipeline:192 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] CDS Completed
+2026-06-05 15:47:13.996 | INFO     | pipeline_runner:run_pipeline:252 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Temporal Consistency Completed
+2026-06-05 15:47:14.096 | INFO     | pipeline_runner:run_pipeline:310 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Unique Defect Extraction Completed
+2026-06-05 15:47:14.128 | INFO     | pipeline_runner:run_pipeline:367 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Repair Estimation Completed
+2026-06-05 15:47:18.371 | INFO     | pipeline_runner:run_pipeline:415 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Document Generated
+2026-06-05 15:47:18.377 | INFO     | pipeline_runner:run_pipeline:449 - [6faa2c18-cbc6-4f4b-adb5-b7bfb7ca1699] Pipeline Completed
+2026-06-05 15:49:41.557 | INFO     | pipeline_runner:run_pipeline:71 - [3bc623c0-2468-44fa-931c-919e43d1327f] Pipeline Started
+2026-06-05 15:49:50.919 | INFO     | pipeline_runner:run_pipeline:132 - [3bc623c0-2468-44fa-931c-919e43d1327f] Frame Extraction Completed
+2026-06-05 15:49:56.760 | INFO     | pipeline_runner:run_pipeline:192 - [3bc623c0-2468-44fa-931c-919e43d1327f] CDS Completed
+2026-06-05 15:49:59.856 | INFO     | pipeline_runner:run_pipeline:252 - [3bc623c0-2468-44fa-931c-919e43d1327f] Temporal Consistency Completed
+2026-06-05 15:49:59.891 | INFO     | pipeline_runner:run_pipeline:310 - [3bc623c0-2468-44fa-931c-919e43d1327f] Unique Defect Extraction Completed
+2026-06-05 15:49:59.918 | INFO     | pipeline_runner:run_pipeline:367 - [3bc623c0-2468-44fa-931c-919e43d1327f] Repair Estimation Completed
+2026-06-05 15:50:01.410 | INFO     | pipeline_runner:run_pipeline:415 - [3bc623c0-2468-44fa-931c-919e43d1327f] Document Generated
+2026-06-05 15:50:01.414 | INFO     | pipeline_runner:run_pipeline:449 - [3bc623c0-2468-44fa-931c-919e43d1327f] Pipeline Completed
+2026-06-05 15:55:26.273 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-08 00:38:49.198 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-08 11:48:31.368 | INFO     | main:startup_db_client:34 - Successfully connected to MongoDB!
+2026-06-08 14:32:08.801 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 14:34:16.664 | INFO     | pipeline_runner:run_pipeline:71 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Pipeline Started
+2026-06-08 14:34:29.873 | INFO     | pipeline_runner:run_pipeline:132 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Frame Extraction Completed
+2026-06-08 14:34:35.596 | INFO     | pipeline_runner:run_pipeline:192 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] CDS Completed
+2026-06-08 14:34:40.098 | INFO     | pipeline_runner:run_pipeline:252 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Temporal Consistency Completed
+2026-06-08 14:34:40.146 | INFO     | pipeline_runner:run_pipeline:310 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Unique Defect Extraction Completed
+2026-06-08 14:34:40.187 | INFO     | pipeline_runner:run_pipeline:367 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Repair Estimation Completed
+2026-06-08 14:35:22.954 | INFO     | pipeline_runner:run_pipeline:415 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Document Generated
+2026-06-08 14:35:22.958 | INFO     | pipeline_runner:run_pipeline:449 - [e6d097c3-a69b-4ff3-9b33-1ecd9646512b] Pipeline Completed
+2026-06-08 14:46:56.541 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 14:55:27.459 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 15:17:41.276 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 15:18:56.248 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 15:19:06.467 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 16:19:18.991 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 17:42:15.652 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 17:42:25.107 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 17:56:49.258 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 18:06:49.247 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 18:11:29.415 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-08 18:11:38.964 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 11:32:43.064 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 11:34:43.722 | INFO     | pipeline_runner:run_pipeline:71 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Pipeline Started
+2026-06-09 11:35:21.954 | INFO     | pipeline_runner:run_pipeline:132 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Frame Extraction Completed
+2026-06-09 11:36:09.174 | INFO     | pipeline_runner:run_pipeline:192 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] CDS Completed
+2026-06-09 11:36:24.531 | INFO     | pipeline_runner:run_pipeline:252 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Temporal Consistency Completed
+2026-06-09 11:36:24.822 | INFO     | pipeline_runner:run_pipeline:310 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Unique Defect Extraction Completed
+2026-06-09 11:36:24.969 | INFO     | pipeline_runner:run_pipeline:367 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Repair Estimation Completed
+2026-06-09 11:36:24.974 | ERROR    | pipeline_runner:run_pipeline:385 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Defect Matching Failed: local variable 'db' referenced before assignment
+2026-06-09 11:47:18.478 | INFO     | pipeline_runner:run_pipeline:430 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Document Generated
+2026-06-09 11:47:18.512 | INFO     | pipeline_runner:run_pipeline:464 - [f260ec9e-7684-4b43-9119-5f2c1fe6f062] Pipeline Completed
+2026-06-09 11:47:18.612 | INFO     | pipeline_runner:run_pipeline:71 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] Pipeline Started
+2026-06-09 11:47:42.776 | INFO     | pipeline_runner:run_pipeline:132 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] Frame Extraction Completed
+2026-06-09 11:48:11.682 | INFO     | pipeline_runner:run_pipeline:192 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] CDS Completed
+2026-06-09 11:48:21.464 | INFO     | pipeline_runner:run_pipeline:252 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] Temporal Consistency Completed
+2026-06-09 11:48:21.744 | INFO     | pipeline_runner:run_pipeline:310 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] Unique Defect Extraction Completed
+2026-06-09 11:48:21.810 | INFO     | pipeline_runner:run_pipeline:367 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] Repair Estimation Completed
+2026-06-09 11:48:21.812 | ERROR    | pipeline_runner:run_pipeline:385 - [7b0aa405-5a17-4b50-a6c0-ef659e499060] Defect Matching Failed: local variable 'db' referenced before assignment
+2026-06-09 11:56:41.060 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 11:58:08.709 | INFO     | pipeline_runner:run_batch_pipeline:494 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Batch Pipeline Started
+2026-06-09 11:58:39.942 | INFO     | pipeline_runner:run_batch_pipeline:548 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Frame Extraction Completed. Total Frames: 8
+2026-06-09 11:58:59.410 | INFO     | pipeline_runner:run_batch_pipeline:571 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] CDS Completed
+2026-06-09 11:59:04.424 | INFO     | pipeline_runner:run_batch_pipeline:596 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Temporal Consistency Completed
+2026-06-09 11:59:04.583 | INFO     | pipeline_runner:run_batch_pipeline:620 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Unique Defect Extraction Completed
+2026-06-09 11:59:04.628 | INFO     | pipeline_runner:run_batch_pipeline:643 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Repair Estimation Completed
+2026-06-09 11:59:04.814 | INFO     | pipeline_runner:run_batch_pipeline:657 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Lifecycle Defect Matching Completed
+2026-06-09 12:13:21.702 | INFO     | pipeline_runner:run_batch_pipeline:680 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Document Generated
+2026-06-09 12:13:21.733 | INFO     | pipeline_runner:run_batch_pipeline:694 - [96f528a8-a63a-4d23-a9be-4e2053eccf93] Batch Pipeline Completed
+2026-06-09 12:14:08.621 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 12:41:19.323 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 12:42:18.966 | INFO     | pipeline_runner:run_batch_pipeline:494 - [834d0cdb-33c3-48c8-9b23-0da95277d450] Batch Pipeline Started
+2026-06-09 12:42:46.484 | INFO     | pipeline_runner:run_batch_pipeline:548 - [834d0cdb-33c3-48c8-9b23-0da95277d450] Frame Extraction Completed. Total Frames: 13
+2026-06-09 12:43:19.884 | INFO     | pipeline_runner:run_batch_pipeline:571 - [834d0cdb-33c3-48c8-9b23-0da95277d450] CDS Completed
+2026-06-09 12:43:28.308 | INFO     | pipeline_runner:run_batch_pipeline:596 - [834d0cdb-33c3-48c8-9b23-0da95277d450] Temporal Consistency Completed
+2026-06-09 12:43:28.489 | INFO     | pipeline_runner:run_batch_pipeline:620 - [834d0cdb-33c3-48c8-9b23-0da95277d450] Unique Defect Extraction Completed
+2026-06-09 12:43:28.550 | INFO     | pipeline_runner:run_batch_pipeline:643 - [834d0cdb-33c3-48c8-9b23-0da95277d450] Repair Estimation Completed
+2026-06-09 12:43:28.694 | INFO     | pipeline_runner:run_batch_pipeline:657 - [834d0cdb-33c3-48c8-9b23-0da95277d450] Lifecycle Defect Matching Completed
+2026-06-09 13:03:49.612 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 13:04:28.111 | INFO     | pipeline_runner:run_batch_pipeline:494 - [b017054f-d278-43e7-8224-208d5c025161] Batch Pipeline Started
+2026-06-09 13:05:01.357 | INFO     | pipeline_runner:run_batch_pipeline:548 - [b017054f-d278-43e7-8224-208d5c025161] Frame Extraction Completed. Total Frames: 8
+2026-06-09 13:05:16.057 | INFO     | pipeline_runner:run_batch_pipeline:571 - [b017054f-d278-43e7-8224-208d5c025161] CDS Completed
+2026-06-09 13:05:20.197 | INFO     | pipeline_runner:run_batch_pipeline:596 - [b017054f-d278-43e7-8224-208d5c025161] Temporal Consistency Completed
+2026-06-09 13:05:20.328 | INFO     | pipeline_runner:run_batch_pipeline:620 - [b017054f-d278-43e7-8224-208d5c025161] Unique Defect Extraction Completed
+2026-06-09 13:05:20.386 | INFO     | pipeline_runner:run_batch_pipeline:643 - [b017054f-d278-43e7-8224-208d5c025161] Repair Estimation Completed
+2026-06-09 13:05:20.499 | INFO     | pipeline_runner:run_batch_pipeline:657 - [b017054f-d278-43e7-8224-208d5c025161] Lifecycle Defect Matching Completed
+2026-06-09 13:48:26.535 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 14:03:05.684 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 14:03:30.083 | INFO     | main:startup_db_client:35 - Successfully connected to MongoDB!
+2026-06-09 14:03:55.431 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-09 14:08:48.007 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-09 14:55:09.159 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-09 14:56:27.965 | INFO     | pipeline_runner:run_batch_pipeline:240 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Batch Pipeline Started
+2026-06-09 14:56:56.476 | INFO     | pipeline_runner:_run_frame_extraction:101 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Frame Extraction Completed. Total Frames: 8
+2026-06-09 14:56:56.557 | INFO     | pipeline_runner:_pause_for_review:37 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Waiting for human review at frame_extraction
+2026-06-09 14:57:25.293 | INFO     | pipeline_runner:resume_pipeline:270 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Resuming pipeline from detection
+2026-06-09 14:57:44.230 | INFO     | pipeline_runner:_run_detection_stages:120 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] CDS Completed
+2026-06-09 14:57:52.011 | INFO     | pipeline_runner:_run_detection_stages:136 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Temporal Consistency Completed
+2026-06-09 14:57:52.233 | INFO     | pipeline_runner:_run_detection_stages:151 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Unique Defect Extraction Completed
+2026-06-09 14:57:52.259 | INFO     | pipeline_runner:_pause_for_review:37 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Waiting for human review at defect_detection
+2026-06-09 14:57:52.267 | INFO     | pipeline_runner:resume_pipeline:289 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Resuming pipeline from post-defect review
+2026-06-09 14:57:52.336 | INFO     | pipeline_runner:_run_post_defect_stages:169 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Repair Estimation Completed
+2026-06-09 14:57:52.421 | INFO     | pipeline_runner:_run_post_defect_stages:179 - [58235070-e85a-48c4-aa2a-fe8a65e3195d] Lifecycle Defect Matching Completed
+2026-06-09 15:38:12.275 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-09 15:39:32.119 | INFO     | pipeline_runner:run_batch_pipeline:240 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Batch Pipeline Started
+2026-06-09 15:40:23.472 | INFO     | pipeline_runner:_run_frame_extraction:101 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Frame Extraction Completed. Total Frames: 8
+2026-06-09 15:40:23.625 | INFO     | pipeline_runner:_pause_for_review:37 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Waiting for human review at frame_extraction
+2026-06-09 15:40:34.372 | INFO     | pipeline_runner:resume_pipeline:270 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Resuming pipeline from detection
+2026-06-09 15:41:28.359 | INFO     | pipeline_runner:_run_detection_stages:120 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] CDS Completed
+2026-06-09 15:41:51.195 | INFO     | pipeline_runner:_run_detection_stages:136 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Temporal Consistency Completed
+2026-06-09 15:41:51.746 | INFO     | pipeline_runner:_run_detection_stages:151 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Unique Defect Extraction Completed
+2026-06-09 15:41:51.843 | INFO     | pipeline_runner:_pause_for_review:37 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Waiting for human review at defect_detection
+2026-06-09 15:41:51.860 | INFO     | pipeline_runner:resume_pipeline:289 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Resuming pipeline from post-defect review
+2026-06-09 15:41:51.957 | INFO     | pipeline_runner:_run_post_defect_stages:169 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Repair Estimation Completed
+2026-06-09 15:41:52.112 | INFO     | pipeline_runner:_run_post_defect_stages:179 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Lifecycle Defect Matching Completed
+2026-06-09 15:44:08.458 | INFO     | pipeline_runner:_run_post_defect_stages:192 - [6ffa09c9-1e35-4684-b2ba-5ab58406bee6] Document Generated
+2026-06-09 15:44:52.764 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-09 15:46:30.742 | INFO     | pipeline_runner:run_batch_pipeline:217 - [d7108f65-61dc-4e7c-98f6-1f98fdad9f66] Batch Pipeline Started
+2026-06-09 15:46:57.177 | INFO     | pipeline_runner:_frame_extraction:98 - [d7108f65-61dc-4e7c-98f6-1f98fdad9f66] Frame Extraction Completed. Total Frames: 16
+2026-06-09 15:48:19.572 | INFO     | pipeline_runner:_pause_for_confidence_review:49 - [d7108f65-61dc-4e7c-98f6-1f98fdad9f66] Human review required: 3 detected defects need human verification
+2026-06-09 15:55:52.638 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-09 16:10:43.412 | INFO     | pipeline_runner:run_batch_pipeline:217 - [3b0f0c4b-6df2-4c97-827a-afc27a2c6e7b] Batch Pipeline Started
+2026-06-09 16:11:31.041 | INFO     | pipeline_runner:_frame_extraction:98 - [3b0f0c4b-6df2-4c97-827a-afc27a2c6e7b] Frame Extraction Completed. Total Frames: 26
+2026-06-09 16:13:39.990 | INFO     | pipeline_runner:_pause_for_confidence_review:49 - [3b0f0c4b-6df2-4c97-827a-afc27a2c6e7b] Human review required: 4 detected defects need human verification
+2026-06-09 16:44:46.733 | INFO     | pipeline_runner:run_batch_pipeline:217 - [b425768b-68be-4379-b416-735c2eb35602] Batch Pipeline Started
+2026-06-09 16:45:18.086 | INFO     | pipeline_runner:_frame_extraction:98 - [b425768b-68be-4379-b416-735c2eb35602] Frame Extraction Completed. Total Frames: 8
+2026-06-09 16:46:12.598 | INFO     | pipeline_runner:_pause_for_confidence_review:49 - [b425768b-68be-4379-b416-735c2eb35602] Human review required: 2 detected defects need human verification
+2026-06-10 11:03:39.770 | INFO     | main:startup_db_client:36 - Successfully connected to MongoDB!
+2026-06-10 12:46:00.112 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 12:46:00.403 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 12:57:30.557 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:30.733 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/dashboard: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:31.597 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:31.758 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/dashboard: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:33.782 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/dashboard: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:33.937 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:34.953 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:36.974 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:39.047 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/inspections: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:40.057 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/inspections: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:42.074 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/inspections: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:46.098 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/inspections: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:56.240 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/dashboard: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:56.251 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:57.265 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/dashboard: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:57.275 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:58.734 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:57:59.755 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:58:01.773 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:58:05.784 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 12:59:59.872 | ERROR    | main:global_exception_handler:50 - Unhandled exception on http://127.0.0.1:8000/api/v1/vessels/: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 13:00:00.072 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 13:00:00.081 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 13:00:19.455 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 13:00:19.498 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 13:00:19.516 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 13:00:19.517 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 13:00:28.972 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 13:00:28.988 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 13:34:26.229 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 13:34:26.270 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 13:34:43.852 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 13:34:43.880 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 13:34:48.235 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 13:34:48.237 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 13:34:57.794 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 13:34:57.810 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 13:53:13.338 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 13:53:13.359 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 13:53:33.581 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 13:53:33.642 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 14:00:41.528 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 14:00:41.535 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 14:00:52.216 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 14:00:52.238 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 16:02:37.458 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 16:02:37.483 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 16:07:59.637 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 16:07:59.682 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 20:58:48.181 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 20:58:48.928 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 21:01:13.008 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 21:01:13.015 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 21:01:47.797 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 21:01:47.854 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 21:18:05.607 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 21:18:05.636 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 21:18:37.964 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 21:18:38.035 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 21:20:59.723 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 21:20:59.748 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 21:21:34.338 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 21:21:34.408 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 21:21:34.442 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 21:21:34.451 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 21:21:57.520 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 21:21:57.544 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 21:22:52.659 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 21:22:52.693 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 21:23:23.755 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 21:23:23.819 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 21:28:54.892 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/download/b425768b-68be-4379-b416-735c2eb35602/pdf: '_asyncio.Future' object has no attribute 'get'
+2026-06-10 21:34:11.048 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/download/b425768b-68be-4379-b416-735c2eb35602/pdf: '_asyncio.Future' object has no attribute 'get'
+2026-06-10 21:34:11.232 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/download/b425768b-68be-4379-b416-735c2eb35602/pdf: '_asyncio.Future' object has no attribute 'get'
+2026-06-10 21:35:45.494 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/download/b425768b-68be-4379-b416-735c2eb35602/pdf: '_asyncio.Future' object has no attribute 'get'
+2026-06-10 21:35:45.710 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/download/b425768b-68be-4379-b416-735c2eb35602/pdf: '_asyncio.Future' object has no attribute 'get'
+2026-06-10 21:35:52.683 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 21:35:52.699 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 21:36:07.466 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 21:36:07.496 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 22:35:47.284 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 22:35:47.781 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 22:54:12.327 | INFO     | pipeline_runner:run_batch_pipeline:217 - [09be699e-244b-496d-833a-343074f25c42] Batch Pipeline Started
+2026-06-10 22:54:24.383 | INFO     | pipeline_runner:_frame_extraction:98 - [09be699e-244b-496d-833a-343074f25c42] Frame Extraction Completed. Total Frames: 1
+2026-06-10 22:54:31.889 | ERROR    | pipeline_runner:_run_final_stages:179 - [09be699e-244b-496d-833a-343074f25c42] Defect Matching Failed: '_asyncio.Future' object has no attribute 'get'
+2026-06-10 22:54:43.555 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:54:44.604 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:54:46.626 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:54:50.638 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:00.654 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:01.666 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:03.683 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:07.704 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:17.727 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:18.754 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:20.767 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:24.789 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:34.811 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:35.832 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:37.841 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:55:41.858 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:56:02.321 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:56:03.349 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:56:05.359 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:56:09.375 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:56:26.325 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:56:27.339 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:57:19.182 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:57:23.197 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/batches/d11d6995-090a-40df-8d1f-85d3dd4d546b/report: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 22:57:24.694 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 22:57:24.704 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 22:57:46.271 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 22:57:46.310 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:06:48.700 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/predict/batch: unsupported operand type(s) for +: '_asyncio.Future' and 'int'
+2026-06-10 23:08:12.139 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:08:12.142 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:08:26.218 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:08:26.242 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:08:26.246 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:08:26.249 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:08:37.682 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:08:37.701 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:10:06.413 | INFO     | pipeline_runner:run_batch_pipeline:217 - [36730198-bd42-4aaa-967d-488b44fc328f] Batch Pipeline Started
+2026-06-10 23:10:39.394 | INFO     | pipeline_runner:_frame_extraction:98 - [36730198-bd42-4aaa-967d-488b44fc328f] Frame Extraction Completed. Total Frames: 21
+2026-06-10 23:11:18.533 | INFO     | pipeline_runner:_pause_for_confidence_review:49 - [36730198-bd42-4aaa-967d-488b44fc328f] Human review required: 11 detected defects need human verification
+2026-06-10 23:12:39.502 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:40.520 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:42.534 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:46.549 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:50.570 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:51.595 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:53.611 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:12:57.629 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:13:05.549 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:13:06.573 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:13:08.587 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:13:12.604 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:13:16.623 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:13:17.652 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:15:16.444 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:15:20.468 | ERROR    | main:global_exception_handler:51 - Unhandled exception on http://127.0.0.1:8000/api/v1/internal/reviews: 'AsyncIOMotorCursor' object is not iterable
+2026-06-10 23:17:47.537 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:17:47.541 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:18:04.120 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:18:04.155 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:19:48.946 | INFO     | pipeline_runner:run_batch_pipeline:217 - [84d709a2-4765-447c-a51e-97186d025efd] Batch Pipeline Started
+2026-06-10 23:20:21.697 | INFO     | pipeline_runner:_frame_extraction:98 - [84d709a2-4765-447c-a51e-97186d025efd] Frame Extraction Completed. Total Frames: 21
+2026-06-10 23:21:00.121 | INFO     | pipeline_runner:_pause_for_confidence_review:49 - [84d709a2-4765-447c-a51e-97186d025efd] Human review required: 11 detected defects need human verification
+2026-06-10 23:25:50.185 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:25:50.188 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:26:05.606 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:26:05.627 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:26:05.633 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:26:05.634 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:26:15.636 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:26:15.648 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:42:01.327 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:42:01.330 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:42:15.147 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:42:15.164 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:42:25.624 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:42:25.627 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:42:35.890 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:42:35.902 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-10 23:42:52.816 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-10 23:42:52.819 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-10 23:43:02.982 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-10 23:43:02.996 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-11 01:05:50.993 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-11 01:05:50.996 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-11 01:06:06.168 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-11 01:06:06.189 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-11 11:14:43.274 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-11 11:14:43.663 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-11 18:35:03.853 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-11 18:35:03.878 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-11 18:40:10.280 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-11 18:40:10.552 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-11 18:40:10.570 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-11 18:40:10.571 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-11 18:40:21.504 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-11 18:40:21.520 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-11 18:44:05.096 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-11 18:44:05.097 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-11 18:44:15.646 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-11 18:44:15.689 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-11 18:45:23.955 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-11 18:45:23.976 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-29 15:11:44.819 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-29 15:11:44.842 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-29 15:12:02.378 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-29 15:12:02.381 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-29 15:13:19.312 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-29 15:13:19.333 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-29 15:16:06.407 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-29 15:16:06.408 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-29 15:16:29.412 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-29 15:16:29.450 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-29 15:17:03.806 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-29 15:17:03.813 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.
+2026-06-29 15:17:17.375 | INFO     | database:connect_to_mongo:11 - Connecting to MongoDB...
+2026-06-29 15:17:17.397 | INFO     | database:connect_to_mongo:19 - Successfully connected to MongoDB!
+2026-06-29 15:17:47.547 | INFO     | database:close_mongo_connection:31 - Closing MongoDB connection...
+2026-06-29 15:17:47.552 | INFO     | database:close_mongo_connection:33 - MongoDB connection closed.

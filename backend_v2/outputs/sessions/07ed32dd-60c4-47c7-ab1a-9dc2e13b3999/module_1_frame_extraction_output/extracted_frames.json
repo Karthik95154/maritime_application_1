@@ -1,0 +1,42 @@
+[
+    {
+        "frame_id": 0,
+        "timestamp": 0.0,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000000.jpg"
+    },
+    {
+        "frame_id": 5,
+        "timestamp": 0.20833333333333334,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000005.jpg"
+    },
+    {
+        "frame_id": 20,
+        "timestamp": 0.8333333333333334,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000020.jpg"
+    },
+    {
+        "frame_id": 45,
+        "timestamp": 1.875,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000045.jpg"
+    },
+    {
+        "frame_id": 75,
+        "timestamp": 3.125,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000075.jpg"
+    },
+    {
+        "frame_id": 95,
+        "timestamp": 3.9583333333333335,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000095.jpg"
+    },
+    {
+        "frame_id": 100,
+        "timestamp": 4.166666666666667,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000100.jpg"
+    },
+    {
+        "frame_id": 110,
+        "timestamp": 4.583333333333333,
+        "frame_path": "outputs/sessions/07ed32dd-60c4-47c7-ab1a-9dc2e13b3999\\module_1_frame_extraction_output\\frame_000110.jpg"
+    }
+]

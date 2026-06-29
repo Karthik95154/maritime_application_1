@@ -1,0 +1,12 @@
+[
+    {
+        "frame_id": 0,
+        "timestamp": 0.0,
+        "frame_path": "outputs/sessions/351d0b74-8340-4422-af0d-366d5306b6db\\module_1_frame_extraction_output\\frame_000000.jpg"
+    },
+    {
+        "frame_id": 190,
+        "timestamp": 7.916666666666667,
+        "frame_path": "outputs/sessions/351d0b74-8340-4422-af0d-366d5306b6db\\module_1_frame_extraction_output\\frame_000190.jpg"
+    }
+]

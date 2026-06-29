@@ -1,0 +1,115 @@
+{
+    "PD_1": {
+        "persistent_defect_id": "PD_1",
+        "defect_name": "DEFORMATION",
+        "frames_list": [
+            0
+        ],
+        "timestamps": [
+            0.0
+        ],
+        "best_frame": 0,
+        "best_frame_path": "outputs/sessions/d80ba586-518a-44c6-b5b7-a2e67145174d\\module_1_frame_extraction_output\\frame_000000.jpg",
+        "best_frame_confidence": 0.7837553024291992,
+        "best_segmentation_area_px": 21936.0,
+        "defect_area": 5,
+        "area_metrics": "sq.m",
+        "bbox": [
+            686.3505859375,
+            381.1424560546875,
+            897.2868041992188,
+            510.5356140136719
+        ],
+        "severity": "medium",
+        "confidence_statistics": {
+            "max_confidence": 0.7837553024291992,
+            "min_confidence": 0.7837553024291992,
+            "avg_confidence": 0.7837553024291992
+        },
+        "overlapping_parts": [
+            {
+                "part_name": "HULL_AREA",
+                "part_track_id": 1,
+                "part_segmentation_area_px": 408110,
+                "defect_overlap_area_px": 22223,
+                "defect_overlap_ratio": 0.05445345617603097
+            }
+        ]
+    },
+    "PD_2": {
+        "persistent_defect_id": "PD_2",
+        "defect_name": "DEFORMATION",
+        "frames_list": [
+            75
+        ],
+        "timestamps": [
+            3.125
+        ],
+        "best_frame": 75,
+        "best_frame_path": "outputs/sessions/d80ba586-518a-44c6-b5b7-a2e67145174d\\module_1_frame_extraction_output\\frame_000075.jpg",
+        "best_frame_confidence": 0.7587020993232727,
+        "best_segmentation_area_px": 21756.0,
+        "defect_area": 5,
+        "area_metrics": "sq.m",
+        "bbox": [
+            440.5851745605469,
+            385.9226379394531,
+            640.86962890625,
+            514.3681640625
+        ],
+        "severity": "medium",
+        "confidence_statistics": {
+            "max_confidence": 0.7587020993232727,
+            "min_confidence": 0.7587020993232727,
+            "avg_confidence": 0.7587020993232727
+        },
+        "overlapping_parts": [
+            {
+                "part_name": "HULL_AREA",
+                "part_track_id": 1,
+                "part_segmentation_area_px": 550730,
+                "defect_overlap_area_px": 21903,
+                "defect_overlap_ratio": 0.03977084959962232
+            }
+        ]
+    },
+    "PD_3": {
+        "persistent_defect_id": "PD_3",
+        "defect_name": "DEFORMATION",
+        "frames_list": [
+            110,
+            140
+        ],
+        "timestamps": [
+            4.583333333333333,
+            5.833333333333333
+        ],
+        "best_frame": 110,
+        "best_frame_path": "outputs/sessions/d80ba586-518a-44c6-b5b7-a2e67145174d\\module_1_frame_extraction_output\\frame_000110.jpg",
+        "best_frame_confidence": 0.7179034948348999,
+        "best_segmentation_area_px": 19522.0,
+        "defect_area": 5,
+        "area_metrics": "sq.m",
+        "bbox": [
+            308.385498046875,
+            393.2709045410156,
+            507.5936584472656,
+            513.7398071289062
+        ],
+        "severity": "medium",
+        "confidence_statistics": {
+            "max_confidence": 0.7179034948348999,
+            "min_confidence": 0.657650887966156,
+            "avg_confidence": 0.687777191400528
+        },
+        "overlapping_parts": [
+            {
+                "part_name": "HULL_AREA",
+                "part_track_id": 1,
+                "part_segmentation_area_px": 621311,
+                "defect_overlap_area_px": 18580,
+                "defect_overlap_ratio": 0.029904508370204294
+            }
+        ]
+    }
+}

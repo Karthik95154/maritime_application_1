@@ -1,0 +1,41 @@
+<title> 
+fouling 
+</title> 
+
+<description> 
+Fouling (biofouling) is the accumulation of marine organisms – such as barnacles, algae, and mussels – on the hull surface【24†L19-L27】. It increases hydrodynamic drag and fuel consumption. Ships use anti-fouling coatings (paints with biocides) to minimise this growth【47†L7-L11】, but over time fouling still occurs. Causes include biological attachment in calm waters and degraded anti-foul coating. Fouling removal is a regular maintenance task to restore performance. 
+</description>
+
+<repair-process> 
+
+- **Inspection:** In drydock or alongside, inspect hull for fouling. Determine fouling severity and check coating condition underneath. 
+- **Hull cleaning:** Remove fouling using divers or remotely-operated vehicles equipped with brushes or high-pressure water jets【24†L65-L73】. Earlier methods used divers with brush machines, but newer ROVs can jet-blast the hull efficiently【24†L65-L73】. Ensure the anti-fouling paint is not overly damaged during cleaning. 
+- **Pressure washing:** After scrubbing, power-wash the hull to rinse off residual debris. 
+- **Paint renewal:** If the anti-fouling coating is worn or abraded, apply a fresh coat. Typically, first apply a suitable primer if required, then spray or brush on anti-fouling paint formulated for marine use【47†L7-L11】. 
+- **Finishing:** Allow the paint to cure as per specification. Return vessel to service promptly since clean hull greatly reduces fuel use. 
+</repair-process> 
+
+<required-items>
+{ 
+    "Anti-fouling Paint": { 
+        "quantity_per_sqm": 0.05, 
+        "metrics": "L/sq.m", 
+        "cost": "538 rs" 
+    }, 
+    "Anti-fouling Primer (if needed)": { 
+        "quantity_per_sqm": 0.02, 
+        "metrics": "L/sq.m", 
+        "cost": "134 rs" 
+    }, 
+    "High-pressure Water Jet (rental)": { 
+        "quantity_per_sqm": 0.01, 
+        "metrics": "machine-days/sq.m", 
+        "cost": "10764 rs" 
+    }, 
+    "Divers (labour)": { 
+        "quantity_per_sqm": 2.15, 
+        "metrics": "hours/sq.m", 
+        "cost": "3229 rs" 
+    } 
+}
+</required-items>

@@ -1,0 +1,41 @@
+<title> 
+hole 
+</title>
+
+<description> 
+A hole in the hull plating may result from heavy corrosion perforation or impact damage. Classification practice is to repair holes by replacing the section with new steel. Small holes or punctures are typically patched, whereas larger cuts are made into an “insert plate” replacement. Proper edge preparation (bevels and drilled corners) is essential to prevent future cracks【4†L1138-L1147】【35†L1098-L1103】. 
+</description>
+
+<repair-process> 
+
+- **Preparation:** Grind or blast the hole edges clean. Drill a hole at each corner or the end of cracks to stop crack propagation【12†L993-L1002】. Cut the hole into a regular shape (e.g. rectangle) with straight sides if possible. 
+- **Cut out to sound metal:** Remove the affected plating back to good steel (at least ¾ thickness)【35†L1098-L1103】. Make sure edges of the remaining hull have smooth backing frames or weld seams. 
+- **Patch vs insert:** For a small hole, fit a patch plate matching the cut-out and bevel the edges for welding. For larger areas (spanning more than one frame), prepare an insert plate. The cut lines and welding seams should align with existing weld lines as practical【35†L1098-L1103】. 
+- **Welding:** Tack the patch/insert in place. Weld continuously around its perimeter. Patch plates should be fillet-welded on both sides of the hull for strength【4†L1138-L1147】. Grind welds smooth when done. 
+- **Finishing:** Inspect welds for completeness (e.g. by dye-penetrant). Prime and paint the new steel patch to protect against corrosion. Round any sharp corners on the repair to prevent stress risers【4†L1138-L1147】. 
+</repair-process> 
+
+<required-items>
+{ 
+    "Copper slag/garnet (blasting media)": { 
+        "quantity_per_sqm": 3.23, 
+        "metrics": "kg/sq.m", 
+        "cost": "1938 rs" 
+    }, 
+    "Grade A Shipbuilding Steel": { 
+        "quantity_per_sqm": 1.08, 
+        "metrics": "sheets/sq.m", 
+        "cost": "2153 rs" 
+    }, 
+    "E7018 Welding Electrodes": { 
+        "quantity_per_sqm": 11, 
+        "metrics": "rods/sq.m", 
+        "cost": "194 rs" 
+    }, 
+    "Skilled Welder (labour)": { 
+        "quantity_per_sqm": 0.11, 
+        "metrics": "hours/sq.m", 
+        "cost": "3605 rs" 
+    }
+}
+</required-items>

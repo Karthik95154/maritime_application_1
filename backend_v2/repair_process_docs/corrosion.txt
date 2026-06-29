@@ -1,0 +1,53 @@
+<title> 
+corrosion 
+</title> 
+
+<description> 
+Corrosion is the loss of metal due to electrochemical action, especially in salt water environments:contentReference[oaicite:0]{index=0}. Ship hulls are highly susceptible to corrosion (rusting) because seawater creates an ideal environment for metal to oxidise:contentReference[oaicite:1]{index=1}. As corrosion progresses, plating thins and may perforate. Classification rules typically require replacement of hull plating when wastage exceeds ~15–25%【18†L37-L40】, since localized corrosion or buckling is not acceptable【18†L37-L40】. Causes include prolonged seawater exposure, trapped moisture, and damaged coatings. 
+</description> 
+
+<repair-process> 
+
+- **Inspection and gauging:** Use ultrasonic thickness gauges to measure remaining plate thickness and decide if metal replacement is needed. If plating loss is moderate (e.g. up to ~15%), simple cleaning and recoating may suffice【18†L37-L40】. If wastage is higher or holes have formed, proceed to metal replacement. 
+- **Surface preparation:** Remove rust and old coatings by abrasive blasting (e.g. with copper-slag or garnet) or power tools to expose clean metal. 
+- **Cutting corroded steel:** Cut out corroded areas beyond the structurally sound metal (at least to 3/4 plate thickness)【35†L1098-L1103】. Make sure edges are smooth and rounded to avoid new stress concentrators. 
+- **Fitting new plate:** Fabricate a new steel patch or insert plate (Grade A shipbuilding steel) to fit the cut-out area. Align it within one frame spacing if possible【35†L1098-L1103】. The new plate should match or exceed the original thickness. 
+- **Welding:** Position the new plate and weld it continuously around the edges. Use low-hydrogen electrodes (e.g. E7018) and proper preheat (≈150°F) if required. Fillet weld inside and outside the hull if patch plate is used【4†L1138-L1147】. Ensure welds have full penetration and fair profiles. 
+- **Finishing:** Grind and smooth weld seams. Inspect the repair (e.g. dye-penetrant or ultrasonic NDT) to confirm no defects. Apply primer and anti-corrosive paint (e.g. zinc-chromate primer followed by epoxy/polyurethane topcoats) to protect the repaired area:contentReference[oaicite:2]{index=2}. 
+
+</repair-process> 
+
+<required-items>
+{ 
+    "Copper slag/garnet (blasting media)": { 
+        "quantity_per_sqm": 5.38, 
+        "metrics": "kg/sq.m", 
+        "cost": "1938 rs" 
+    }, 
+    "Grade A Shipbuilding Steel": { 
+        "quantity_per_sqm": 1.08, 
+        "metrics": "sheets/sq.m", 
+        "cost": "2153 rs" 
+    }, 
+    "E7018 Welding Electrodes": { 
+        "quantity_per_sqm": 11, 
+        "metrics": "rods/sq.m", 
+        "cost": "194 rs" 
+    }, 
+    "Skilled Welder (labour)": { 
+        "quantity_per_sqm": 0.11, 
+        "metrics": "hours/sq.m", 
+        "cost": "3605 rs" 
+    }, 
+    "Ultrasonic Thickness Gauge": { 
+        "quantity_per_sqm": 0.11, 
+        "metrics": "units/sq.m", 
+        "cost": "0 rs" 
+    }, 
+    "Sandblasting Machine (rental)": { 
+        "quantity_per_sqm": 0.01, 
+        "metrics": "machine-days/sq.m", 
+        "cost": "53820 rs" 
+    } 
+}
+</required-items>

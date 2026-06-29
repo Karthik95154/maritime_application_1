@@ -1,0 +1,36 @@
+<title> 
+paint_failure 
+</title>
+
+<description> 
+Paint failure includes peeling, blistering, or loss of coating integrity on the ship’s surfaces. Causes include UV degradation, moisture ingress under the paint, or abrasion【37†L198-L206】. When paint fails, underlying steel may start to corrode. A typical remediation is to remove the failed coating and apply new protective layers. For example, epoxy or polyurethane paints (with appropriate primers) are commonly used to prevent corrosion and UV damage【37†L203-L210】. 
+</description> 
+
+<repair-process> 
+
+- **Removal of failed coating:** Scrape and sand the delaminated paint areas or abrasive-blast to near-white metal. Remove all rust or loose particles so that a clean surface is exposed. 
+- **Surface preparation:** Feather the edges of intact paint to avoid abrupt transitions. If corrosion has started, treat it with rust converter or grind out severely pitted areas. Wipe down the surface with solvent to remove grease and dust. 
+- **Priming:** Apply a coat of zinc-rich or epoxy primer to the prepared steel (this provides corrosion inhibition). Ensure full coverage of exposed metal. 
+- **Topcoating:** Over the primer, apply the specified shipboard paint system (often a high-build epoxy or polyurethane topcoat). Use brush, roller or spray to achieve the required thickness. Multiple coats may be needed for full protection【37†L203-L210】. 
+- **Curing:** Allow proper drying time for each coat per manufacturer specs. Inspect the new coating for holidays (pin-holes) and apply touch-ups. Ensure any hull markings or anti-foul topcoats are reapplied if needed. 
+</repair-process> 
+
+<required-items>
+{ 
+    "Zinc Chromate Primer": { 
+        "quantity_per_sqm": 0.54, 
+        "metrics": "L/sq.m", 
+        "cost": "2153 rs" 
+    }, 
+    "Epoxy/Polyurethane Topcoat Paint": { 
+        "quantity_per_sqm": 0.54, 
+        "metrics": "L/sq.m", 
+        "cost": "10764 rs" 
+    }, 
+    "Painter (labour)": { 
+        "quantity_per_sqm": 0.22, 
+        "metrics": "hours/sq.m", 
+        "cost": "3229 rs" 
+    } 
+}
+</required-items>

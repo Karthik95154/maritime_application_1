@@ -1,0 +1,66 @@
+version: "3.8"
+
+services:
+  # Nginx Gateway / Load Balancer
+  nginx:
+    image: nginx:alpine
+    container_name: maritime_nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+    depends_on:
+      - api
+      - frontend
+    networks:
+      - maritime_net
+
+  # React Frontend
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: maritime_frontend
+    environment:
+      - VITE_API_URL=http://api:8000
+    networks:
+      - maritime_net
+
+  # FastAPI Backend (Can be scaled via docker-compose up --scale api=3)
+  api:
+    build:
+      context: ./backend_v2
+      dockerfile: Dockerfile
+    environment:
+      - MONGO_URI=mongodb://admin:secure_password@mongodb:27017
+    # Note: no container_name here so we can scale this service!
+    ports:
+      - "8000" # Let Docker randomly assign host ports for load balancing
+    volumes:
+      - ./backend_enterprise:/app
+    depends_on:
+      - mongodb
+    networks:
+      - maritime_net
+
+  # MongoDB (Single instance for Mini Org)
+  mongodb:
+    image: mongo:6.0
+    container_name: maritime_mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: secure_password
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - maritime_net
+
+networks:
+  maritime_net:
+    driver: bridge
+
+volumes:
+  mongo_data:

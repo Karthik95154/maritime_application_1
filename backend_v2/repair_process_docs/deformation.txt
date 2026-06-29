@@ -1,0 +1,41 @@
+<title> 
+deformation 
+</title>
+
+<description> 
+Deformation (buckling or warping) refers to out-of-plane bending of hull plating or stiffeners, often from groundings, heavy sea loads, or uneven welding. Even moderate buckles can severely impair hull girder strength. Classification practice is to correct buckling by cutting out and replacing the distorted metal【18†L79-L87】. Causes include grounding impacts or welding heat stress. Localized set-in plating is sometimes tolerated if small, but significant buckles must be renewed. 
+</description> 
+
+<repair-process>
+ 
+- **Assessment:** Inspect the deformed region to determine extent. Mark the buckled area and check if it is localized or spans several frames. Measure any out-of-flatness. 
+- **Preparation:** Cut away all distorted plate and any buckled girders or stiffeners to sound metal, leaving a margin of good plate (≥¾ thickness)【35†L1098-L1103】【18†L79-L87】. Straighten or remove any bent framing if required. 
+- **Plate replacement:** Fabricate a new steel plate (same or greater thickness) shaped to fit the cut-out. Position the plate against remaining hull plating. Tack-weld to hold, then complete weld all around, ensuring good fusion and appropriate preheat. Use full penetration welds where possible. 
+- **Alignment and welding:** Apply continuing weld passes using E7018 electrodes. If welding induces distortion, use clamps or minimal heat input techniques. Grind weld seams fair with the hull. In cases of extensive buckling, additional strengthening (doublers or stiffeners) may be applied to reduce stress. 
+- **Finishing:** Inspect the repair by visual and NDT methods. Apply primer and finish coats to the new steel to restore corrosion protection. Ensure the deck or hull surface is faired back to its original contour. 
+</repair-process> 
+
+<required-items>
+{ 
+    "High-strength Shipbuilding Steel": { 
+        "quantity_per_sqm": 1.08, 
+        "metrics": "sheets/sq.m", 
+        "cost": "2691 rs" 
+    }, 
+    "E7018 Welding Electrodes": { 
+        "quantity_per_sqm": 11, 
+        "metrics": "rods/sq.m", 
+        "cost": "194 rs" 
+    }, 
+    "Skilled Welder (labour)": { 
+        "quantity_per_sqm": 0.11, 
+        "metrics": "hours/sq.m", 
+        "cost": "3605 rs" 
+    }, 
+    "Cutting Torch (rental)": { 
+        "quantity_per_sqm": 0.01, 
+        "metrics": "machine-days/sq.m", 
+        "cost": "10764 rs" 
+    } 
+}
+</required-items>
